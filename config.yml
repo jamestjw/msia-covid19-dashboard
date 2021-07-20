@@ -1,0 +1,14 @@
+spreadsheet_id: 1-OQF13hvvW5TQg4aWUz4kAUgOtGTK1YRXTvB7cWnwmk
+sheets:
+  cases:
+    sheet_name: 'Cases'
+    start_col: 'A'
+    end_col: 'AH'
+  vaccination_national:
+    sheet_name: 'Vaccination (National)'
+    start_col: 'A'
+    end_col: 'G'
+  vaccination_state:
+    sheet_name: 'Vaccination (State)'
+    start_col: 'A'
+    end_col: 'H'

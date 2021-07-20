@@ -1,0 +1,11 @@
+dash==1.21.0
+dash-bootstrap-components==0.12.2
+google-api-core==1.31.0
+google-api-python-client==2.14.0
+google-auth==1.33.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.4
+googleapis-common-protos==1.53.0
+gunicorn==20.1.0
+pandas==1.2.0
+PyYAML==5.4.1
